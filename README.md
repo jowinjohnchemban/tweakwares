@@ -1,2 +1,2 @@
-# Naughty Scripts
-Scripts | Codes | Hacks | Patches | Tools - For Naughty Tasks
+# Tweakwares
+Scripts | Codes | Hacks | Patches | Tools
