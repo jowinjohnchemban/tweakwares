@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Manufacturer"="" ; The name of the computer manufacturer (e.g., "Your Company Name")
+"Model"="" ; The model of the computer (e.g., "Your Model Number")
+"SupportHours"="" ; The hours when support is available (e.g., "9 AM - 5 PM")
+"SupportPhone"="" ; The phone number for support (e.g., "123-456-7890")
+"SupportURL"="" ; The URL for online support (e.g., "http://www.yourcompany.com/support")
+"Logo"="" ; The path to a logo image file that can be displayed in the System properties window (e.g., "C:\\Windows\\OEMLogo.bmp")
